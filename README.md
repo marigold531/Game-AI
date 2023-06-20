@@ -1,1 +1,1 @@
-# Game-AI
+Environment: Ubuntu 20.04 - VMWare WorkStation with libsfml-dev and build-essential installed
